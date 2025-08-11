@@ -1,0 +1,30 @@
+# Maven target directory
+/target/
+
+# IntelliJ IDEA project files
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# OS generated files (macOS)
+.DS_Store
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+
+# Environment / credentials
+*.env
+*.properties
+
+# Compiled class files
+*.class
+
+# Maven wrapper binaries
+.mvn/wrapper/maven-wrapper.jar
+
+# Exclude build output from IDE
+out/

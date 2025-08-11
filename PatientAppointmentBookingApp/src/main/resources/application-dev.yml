@@ -1,0 +1,5 @@
+app:
+  env: "DEV"
+logging:
+  level:
+    root: INFO
